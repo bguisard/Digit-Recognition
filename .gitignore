@@ -1,0 +1,6 @@
+captured_images
+data
+dev
+.ipynb_checkpoints
+*.pickle
+__pycache__
